@@ -18,7 +18,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
 
 
 ## Visualization of the structure of our two-path CNN model
-<center><img src="Figure/Visio-CNN_full_new.pdf" /></center>
+<center><img src="Figure/Visio-CNN_full_new.tif" /></center>
 
  
 
