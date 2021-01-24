@@ -1,5 +1,4 @@
-# Wendy0601/Identifying-Overlapping-Successive-Events-Using-a-Shallow-Convolutional-Neural-Network 
-#Identifying-Overlapping-Successive-Events-Using-a-Shallow-Convolutional-Neural-Network
+Identifying-Overlapping-Successive-Events-Using-a-Shallow-Convolutional-Neural-Network
 ==============================================================================
 Code accompanying the paper ["Identifying-Overlapping-Successive-Events-Using-a-Shallow-Convolutional-Neural-Network"](https://ieeexplore.ieee.org/abstract/document/8705309?casa_token=rbTOZ_5AZqUAAAAA:UiMo82yUQD6JJ_QU3TWLx6z5o8gHfCPEZpLWEMrMbePHUfXIJ2HOrJBrksitBmSrxK3_SDac)
 
