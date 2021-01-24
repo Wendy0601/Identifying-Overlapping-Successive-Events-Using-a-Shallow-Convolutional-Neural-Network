@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/07_research/14_successive_events/codes/saved_models/ModelC/modelC_fully"
+all_model_checkpoint_paths: "C:/07_research/14_successive_events/codes/saved_models/ModelC/modelC_fully"
