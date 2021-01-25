@@ -14,7 +14,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
  
 
 ## The roadmap of our approach
-<center><img src="Figure/road_map33.png" width="300"    /></center> 
+<center><img src="Figure/road_map33.png" width="400"    /></center> 
 
  
 
