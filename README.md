@@ -14,11 +14,11 @@ The proposed method is implemented through Jupyter Notebook. The required packag
  
 
 ## The roadmap of our approach
-<center><img src="Figure/road_map33.png" width="100" height="200"  /></center> 
+<center><img src="Figure/road_map33.png" width="200"    /></center> 
 
 
 ## Visualization of the structure of our two-path CNN model
-<center><img src="Figure/Visio-CNN_full_new.png" /></center>
+<center><img src="Figure/Visio-CNN_full_new.png" width = "200"/></center>
 
  
 
