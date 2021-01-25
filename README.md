@@ -7,7 +7,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
 - Jupyter Notebook
 - Python 3
 - Numpy
-- Tensorflow 1.80
+- Tensorflow 1.8.0
 
 ## Getting started
 1) You can run our trained model with "Test_CNN-F_final.ipynb", or train the model by yourself with "Train_CNN-F_final.ipynb". 
