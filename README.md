@@ -11,6 +11,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
 
 ## Getting started
 1) You can run our trained model with "Test_CNN-F_final.ipynb", or train the model by yourself with "Train_CNN-F_final.ipynb". 
+2) Our model is denoted as "CNN-F" while the "CNN-T" is as comparison. Details are described in our paper. 
  
 
 ## The roadmap of our approach
